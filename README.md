@@ -15,7 +15,7 @@ To view the features for a specific Java version, please navigate to the corresp
 
 - [Java 9](./Java-9/README.md)
 - [Java 10](./Java-10/README.md)
-- [Java 11](./Java-11/README.md)
+- [Java 11](./Java-11/README.md) *(LTS)*
 - [Java 12](./Java-12/README.md)
 - [Java 13](./Java-13/README.md)
 - [Java 14](./Java-14/README.md)
@@ -28,7 +28,8 @@ To view the features for a specific Java version, please navigate to the corresp
 - [Java 21](./Java-21/README.md) *(LTS)*
 - [Java 22](./Java-22/README.md)
 - [Java 23](./Java-23/README.md)
-- [Java 24](./Java-24/README.md) *(Planned)*
+- [Java 24](./Java-24/README.md) 
+- [Java 25](./Java-25/README.md) *(Upcoming)* *(LTS)*
 
 ---
 
