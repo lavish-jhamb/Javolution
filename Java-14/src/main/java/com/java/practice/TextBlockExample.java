@@ -1,0 +1,19 @@
+package com.java.practice;
+
+public class TextBlockExample {
+    public static void main(String[] args) {
+        String html = """
+                <html>
+                    <head>
+                        <title>Sample HTML</title>
+                    </head>
+                    <body>
+                        <h1>Hello, World!</h1>
+                        <p>This is a sample HTML document.</p>
+                    </body>
+                </html>
+                """;
+
+        System.out.println(html);
+    }
+}
